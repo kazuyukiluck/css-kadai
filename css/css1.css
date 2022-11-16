@@ -1,0 +1,13 @@
+.practice{
+  width: 200px;
+  padding: 10px 0;
+  margin: 100px auto;
+  background: linear-gradient(90deg, #ff5800, #8b00be);
+  box-shadow: 0 5px 0 rgba(255, 0, 0, 0.2);
+  border-radius: 30px;
+  text-align: center;
+  line-height: 24px;
+  color: aliceblue;
+  display: block;
+}
+

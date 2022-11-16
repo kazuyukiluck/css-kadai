@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.bg {
+  background-image: url("../test.img/firstview.jpg");
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: contain;
+  /* 高さを指定 */
+  height: 900px;
+}
